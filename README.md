@@ -24,7 +24,7 @@ Lightweight, responsive, and designed for clarity and professionalism.
 
 ## 🛠️ Technologies Used
 - **HTML5**
-- **CSS3** (Flexbox, Grid, Animations)
+- **CSS3**
 
 ---
 
